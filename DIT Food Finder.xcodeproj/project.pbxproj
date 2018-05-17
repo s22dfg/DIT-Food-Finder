@@ -12,6 +12,8 @@
 		24367EC720AD16450005F88F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24367EC520AD16450005F88F /* Main.storyboard */; };
 		24367EC920AD16450005F88F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 24367EC820AD16450005F88F /* Assets.xcassets */; };
 		24367ECC20AD16450005F88F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 24367ECA20AD16450005F88F /* LaunchScreen.storyboard */; };
+		24367ED420AD1F950005F88F /* Food Finder TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24367ED320AD1F950005F88F /* Food Finder TableViewController.swift */; };
+		24367ED620AD20090005F88F /* Food Finder TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 24367ED520AD20090005F88F /* Food Finder TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		24367EC820AD16450005F88F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		24367ECB20AD16450005F88F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		24367ECD20AD16450005F88F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		24367ED320AD1F950005F88F /* Food Finder TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Food Finder TableViewController.swift"; sourceTree = "<group>"; };
+		24367ED520AD20090005F88F /* Food Finder TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Food Finder TableViewCell.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +61,8 @@
 				24367EC120AD16450005F88F /* AppDelegate.swift */,
 				24367EC320AD16450005F88F /* ViewController.swift */,
 				24367EC520AD16450005F88F /* Main.storyboard */,
+				24367ED520AD20090005F88F /* Food Finder TableViewCell.swift */,
+				24367ED320AD1F950005F88F /* Food Finder TableViewController.swift */,
 				24367EC820AD16450005F88F /* Assets.xcassets */,
 				24367ECA20AD16450005F88F /* LaunchScreen.storyboard */,
 				24367ECD20AD16450005F88F /* Info.plist */,
@@ -136,6 +142,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				24367ED420AD1F950005F88F /* Food Finder TableViewController.swift in Sources */,
+				24367ED620AD20090005F88F /* Food Finder TableViewCell.swift in Sources */,
 				24367EC420AD16450005F88F /* ViewController.swift in Sources */,
 				24367EC220AD16450005F88F /* AppDelegate.swift in Sources */,
 			);
